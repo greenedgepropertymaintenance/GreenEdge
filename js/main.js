@@ -125,7 +125,7 @@
 
         const gmailUrl =
             'https://mail.google.com/mail/?view=cm&fs=1' +
-            '&to=greenedgepropertymaintenance@gmail.com' +
+            '&to=Info@greenedgepropertymaintenance.co.za' +
             '&su=Free Quote Request' +
             '&body=' + encodeURIComponent(body);
 
